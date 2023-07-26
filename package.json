@@ -1,0 +1,16 @@
+{
+  "name": "http2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "httpData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node httpData.js"
+  },
+  "keywords": ["node","build"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
